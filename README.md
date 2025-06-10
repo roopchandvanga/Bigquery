@@ -55,8 +55,8 @@ gcloud auth application-default revoke
 ## 📁 Data Sources
 
 - 📍 Public Dataset: bigquery-public-data.geo_us_boundaries.counties
-- 📦 Private Dataset: hdma-wi-2021.parquet uploaded to a GCS bucket
-- 📋 Live Data: Google Form-backed Spreadsheet linked as external BigQuery table applications
+- 📦 Private Dataset: hdma-wi-2021.parquet uploaded to a GCS bucket Download https://pages.cs.wisc.edu/~harter/cs544/data/hdma-wi-2021.parquet.
+- 📋 Live Data: Google Form-backed Spreadsheet linked as external BigQuery table applications Link - https://docs.google.com/spreadsheets/d/13e14LzDDm9U4y2KddlKFAy7exNdbo1OwJa-OTe4ywiw/edit?gid=1070618599#gid=1070618599
 
 ## 📌 Questions
 
