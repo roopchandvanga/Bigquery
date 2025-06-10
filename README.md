@@ -39,7 +39,7 @@ sudo apt-get update && sudo apt-get install google-cloud-cli
 ```bash
 gcloud auth application-default login --scopes=openid,https://www.googleapis.com/auth/cloud-platform,https://www.googleapis.com/auth/drive.readonly
 ```
-- 🔐 Tip: Paste the auth link into an incognito browser window and log in with your school account to ensure the correct account is used.
+- 🔐 Tip: Paste the auth link into an incognito browser window and log in with your account.
 
 To revoke access when done:
 ```bash
